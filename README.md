@@ -5,6 +5,5 @@
 
 🌐 Endpoint Information
 
-• Base Endpoint: List your live GitHub Pages URL (e.g., https://rhundal.github.io/country-json-api/data.json).
 • HTTP Method: Supports GET requests only.
 • Content-Type: Serves data as standard application/json.
